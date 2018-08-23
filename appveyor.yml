@@ -10,7 +10,7 @@ configuration:
 
 environment:
   GH_TOKEN:
-    secure: M8XHRk7KURKU/tMDsOGvOoyIJ7FMBF71IsoW24RFxy7czXwSSyiSHIO9WPjpsGVx
+    secure: e3yE8HT2tdRXOol8ylCXrx7Fx4Nhp+ywU4efDXZm0gqa0hnvViPWExBJRRbVm8wB
   matrix:
     - VSVER: 14
     - VSVER: 12
